@@ -851,3 +851,5 @@ API | Description | Auth | HTTPS | CORS |
 | [Storm Glass](https://stormglass.io/) | Global marine weather from multiple sources | `apiKey` | Yes | Yes |
 | [Weatherbit](https://www.weatherbit.io/api) | Weather | `apiKey` | Yes | Unknown |
 | [Yahoo! Weather](https://developer.yahoo.com/weather/) | Weather | `apiKey` | Yes | Unknown |
+
+Resource: <a href="https://github.com/toddmotto/public-apis">https://github.com/toddmotto/public-apis</a>
